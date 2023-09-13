@@ -29,8 +29,8 @@ diacritic č on vowel
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 176
 - **Concepts:** 297
@@ -38,9 +38,9 @@ diacritic č on vowel
 - **Sources:** 1
 - **Synonymy:** 1.21
 - **Invalid lexemes:** 0
-- **Tokens:** 194,771
-- **Segments:** 561 (4 BIPA errors, 4 CLTS sound class errors, 557 CLTS modified)
-- **Inventory size (avg):** 109.20
+- **Tokens:** 194,699
+- **Segments:** 568 (0 BIPA errors, 0 CLTS sound class errors, 568 CLTS modified)
+- **Inventory size (avg):** 109.16
 
 # Contributors
 
