@@ -1,16 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Lameli, Alfred & Werth, Alexander (eds.). 2021. PhonD2 1.0. Prepared by Valeria Bunkov & Samantha Link. Marburg: Research Center Deutscher Sprachatlas..",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:identifier": "https://www.regionalsprache.de/phonD2/",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Lameli and Werth's \"PhonD2\" from 2023",
     "dcat:accessURL": "https://github.com/lexibank/phond2",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/phond2",
             "rdf:type": "prov:Entity",
-            "dc:created": "5ee7bc0",
+            "dc:created": "fcf47ce",
             "dc:title": "Repository"
         },
         {

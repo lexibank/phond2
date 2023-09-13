@@ -40,7 +40,48 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
-    form_spec = FormSpec(separators="~;,/", missing_data=["∅"], first_form_only=True)
+    form_spec = FormSpec(
+            replacements=[
+                (" ", "_"),
+                ("\u200b", ""),
+                ("\u0009", ""),
+                ("_\u0030ɔ", "_ɔ̃"),
+                ("ɑ̃_ː", "ɑ̃ː"),
+                ("ɛ̃_ː", "ɛ̃ː"),
+                ("ɑ̃_ː", "ɑ̃ː"),
+                ("aː_f̂", "âː_f"),
+                ("eː_f̂", "êː_f"),
+                ("ɔɐ_f̌", "ɔɐ̆_f"),
+                ("ʏ_k̂", "ʏ" + "ʏ_k̂"[-1] + "_k"),
+                ("a_l̂", "â_l"),
+                ("ɔ_l̂", "ɔ" + "ɔ_l̂"[-1] + "_l"),
+                ("a_m̂", "â_m"),
+                ("i_m̂", "i" + "a_m̂"[-1] + "_m"),
+                ("ɔ_m̌", "ɔ" + "ɔ_m̌"[-1] + "_m"),
+                ("a_m̌", "a" + "ɔ_m̌"[-1] + "_m"),
+                ("a_nː̌", "a" + "a_nː̌"[-1] + "ː_n"),
+                ("ɪ_nː̌", "ɪ" + "a_nː̌"[-1] + "ː_n"),
+                ("ə_n̂", "ə" + "ə_n̂"[-1] + "_n"),
+                ("ɔ_l_n̂", "ɔ" + "ɔ_l_n̂"[-1] + "_l_n"),
+                ("_p̂", "_p̂"[-1] + "_p"),
+                ("_l_t̂", "_l_t̂"[-1] + "_l_t"),
+                ("_n_t̂", "_l_t̂"[-1] + "_n_t"),
+                ("ː_x̌", "ː_x̌"[-1] + "ː_x"),
+                ("_x̂", "_x̂"[-1] + "_x"), 
+                ("_x̌", "_x̌"[-1] + "_x"),
+                ("_ç̂", "_ç̂"[-1] + "_ç"),
+                ("ː_ç̌", "ː_ç̌"[-1] + "ː_ç"),
+                ("_ç̌", "ː_ç̌"[-1] + "_ç"),
+                ("e_ĵ", "e" + "e_ĵ"[-1] + "_j"),
+                ("a_ň", "ǎ_n"),
+                ("ɪ_ň", "ɪ̆_n"),
+                ("ʊ_ň", "ʊ̆_n"),
+                ("a_ň", "ǎ_n"),
+                ("ˈˈ", "ˈ"),
+                ("\u0303ɔ", "ɔ̃"),
+
+                ],
+            separators="~;,/", missing_data=["∅"], first_form_only=True)
 
     def cmd_makecldf(self, args):
         # add bib
@@ -71,9 +112,9 @@ class Dataset(BaseDataset):
 
         errors = set()
         for row in data:
-            tokensf = row["Tokens"].strip().split()
-            tokens = [t.replace("\u200b", "") for t in tokensf if t != "."]
-            syllables = [{".": "+"}.get(t, t) for t in tokensf]
+            tokens = row["Tokens"].strip().split()
+            #tokens = [t.replace("\u200b", "") for t in tokensf if t != "."]
+            syllables = [{".": "+"}.get(t, t) for t in tokens]
             try:
                 cv = "".join(tokens2class(tokens, "cv"))
             except:
@@ -82,15 +123,13 @@ class Dataset(BaseDataset):
             if row["LID"] not in languages:
                 errors.add(tuple(["language", row["LID"], row["LName"]]))
             else:
-                args.writer.add_form_with_segments(
+                args.writer.add_forms_from_value(
                         Language_ID=languages[row["LID"]],
                         Parameter_ID=concepts[row["Concept"]],
-                        Value=row["Tokens"],
+                        Value="_".join(tokens),
                         Sampa=row["Sampa"],
                         CV_Structure=row["CV"],
                         CV_Structure_Computed=cv,
-                        Form=row["Tokens"],
-                        Segments=tokens,
                         Syllables=" ".join(syllables),
                         Source="phond2",
                         Sonority=row["Sonority"],

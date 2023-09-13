@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "CLDF dataset derived from Lameli and Werth's \"PhonD2\" from 2023",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -24,5 +24,9 @@
             "identifier": "lexibank"
         }
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lameli, Alfred &amp; Werth, Alexander (eds.). 2021. PhonD2 1.0. Prepared by Valeria Bunkov &amp; Samantha Link. Marburg: Research Center Deutscher Sprachatlas..</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
