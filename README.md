@@ -19,7 +19,13 @@ Available online at https://www.regionalsprache.de/phonD2/
 diacritic ^ meaning (on vowel)
 diacritic č on vowel
 
+# Further Steps
 
+- full alignments (without accents, without syllables)
+- extract accent pattern (topped on syllables)
+- check automated syllabification
+- compute similarities or pcas for all dialects
+- compute voronoi etc. 
 
 
 
@@ -38,9 +44,9 @@ diacritic č on vowel
 - **Sources:** 1
 - **Synonymy:** 1.21
 - **Invalid lexemes:** 0
-- **Tokens:** 194,699
-- **Segments:** 568 (0 BIPA errors, 0 CLTS sound class errors, 568 CLTS modified)
-- **Inventory size (avg):** 109.16
+- **Tokens:** 194,642
+- **Segments:** 569 (0 BIPA errors, 0 CLTS sound class errors, 569 CLTS modified)
+- **Inventory size (avg):** 109.46
 
 # Contributors
 

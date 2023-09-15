@@ -1,177 +1,177 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Number,Identifier,Site,Area,LocalID
-1-Altentruedingen,,high1287,,,,49.06389,10.61456,,1,,Altentrüdingen,Ostfränkisch,88232
-2-Gottsbueren_Hofgeismar,,high1287,,,,51.57855,9.50046,,2,,Gottsbüren/Hofgeismar,Ostfälisch,98572
-3-Hoenebach,,high1287,,,,50.9339,9.94198,,3,,Hönebach,Nordhessisch,97293
-4-Gornsdorf,,high1287,,,,50.69943,12.88345,,4,,Gornsdorf,Obersächsisch,140999
-5-Hagen,,high1287,,,,54.56434,13.61768,,5,,Hagen,Mecklenburgisch-Vorpommersch,124534
-6-Wolgast,,high1287,,,,54.05062,13.76549,,6,,Wolgast,Mecklenburgisch-Vorpommersch,119195
-7-Theuma,,high1287,,,,52.76422,9.355,,7,,Theuma,Nordniederdeutsch,110034
-8-Aachen,,high1287,,,,50.77804,6.08842,,8,,Aachen,Ripuarisch,135360
-9-Buedesheim,,high1287,,,,50.21787,8.83433,,9,,Büdesheim,Zentralhessisch,95188
-10-Engelsbach,,high1287,,,,50.85131,10.60358,,10,,Engelsbach,Thüringisch,142692
-11-Schoemberg,,high1287,,,,48.21131,8.75991,,11,,Schömberg,Schwäbisch,129216
-12-Horheim,,high1287,,,,47.64854,8.34737,,12,,Horheim,Hochalemannisch,131034
-13-Reelkirchen,,high1287,,,,51.9127405779053,9.03518281681611,,13,,Reelkirchen,Westfälisch,534378
-14-Treffelstein,,high1287,,,,49.42291,12.61578,,14,,Treffelstein,Nordbairisch,90559
-15-Eschelbronn,,high1287,,,,49.3202,8.86825,,15,,Eschelbronn,Rheinfränkisch,130378
-16-Oberhomberg,,high1287,,,,47.81259,9.41656,,16,,Oberhomberg,Mittelalemannisch,131625
-17-Warpe,,high1287,,,,52.74531,9.10759,,17,,Warpe,Nordniederdeutsch,115632
-18-Bardenfleth,,high1287,,,,53.23143,8.37107,,18,,Bardenfleth,Nordniederdeutsch,107979
-19-Eichenhofen,,high1287,,,,49.18626,11.64591,,19,,Eichenhofen,Nordbairisch,80028
-20-Schoenbeck,,high1287,,,,53.5793,13.57191,,20,,Schönbeck,Mittelpommersch,126983
-21-Eversen,,high1287,,,,52.75291,10.05358,,21,,Eversen,Nordniederdeutsch,112685
-22-Leuth,,high1287,,,,51.33748,6.22534,,22,,Leuth,Niederfränkisch,134449
-23-Altwarp,,high1287,,,,53.74399,14.26249,,23,,Altwarp,Mittelpommersch,119655
-24-Kleinbottwar,,high1287,,,,48.98044,9.28698,,24,,Kleinbottwar,Schwäbisch,127805
-25-EngterHuxelort,,high1287,,,,52.3898,8.0617,,25,,EngterHuxelort,Westfälisch,104396
-26-Wuellen,,high1287,,,,52.06571,6.97187,,26,,Wüllen,Westfälisch,102355
-27-Albersloh,,high1287,,,,51.86704,7.73278,,27,,Albersloh,Westfälisch,102330
-28-Offdilln,,high1287,,,,50.82533,8.22926,,28,,Offdilln,Zentralhessisch,98155
-29-Hartenstein,,high1287,,,,49.59651,11.52376,,29,,Hartenstein,Nordbairisch,72938
-30-Grossballhausen,,high1287,,,,51.15579,10.89288,,30,,Großballhausen,Thüringisch,142682
-31-Klafferstrass,,high1287,,,,48.72849,13.79591,,31,,Klafferstraß,Mittelbairisch,93455
-32-Barssel,,high1287,,,,53.16896,7.7445,,32,,Barßel,Nordniederdeutsch,110375
-33-Cursdorf,,high1287,,,,50.57015,11.13046,,33,,Cursdorf,Ostfränkisch,142982
-34-Vielbrunn,,high1287,,,,49.71315,9.09816,,34,,Vielbrunn,Rheinfränkisch,101114
-35-Dexbach,,high1287,,,,50.93639,8.58935,,35,,Dexbach,Zentralhessisch,94232
-36-Ohrdorf,,high1287,,,,52.69796,10.80829,,36,,Ohrdorf,Ostfälisch,112854
-38-Theuma,,high1287,,,,50.46821,12.22288,,38,,Theuma,Ostfränkisch,136673
-39-Goetz_Brandenburg,,high1287,,,,52.41975,12.71743,,39,,Götz/Brandenburg,Brandenburgisch,126108
-40-Schnepfenbach,,high1287,,,,49.83033,10.1485,,40,,Schnepfenbach,Ostfränkisch,89340
-41-Adorf,,high1287,,,,51.36049,8.80445,,41,,Adorf,Westfälisch,101119
-42-Ensheim,,high1287,,,,49.80601,8.11735,,42,,Ensheim,Rheinfränkisch,97362
-43-Ulbering,,high1287,,,,48.35408,13.01466,,43,,Ulbering,Mittelbairisch,79153
-44-Binswangen,,high1287,,,,48.55704,10.63907,,44,,Binswangen,Schwäbisch,93295
-45-Roehrda,,high1287,,,,51.10205,10.0587,,45,,Röhrda,Nordhessisch,98997
-46-Bempflingen,,high1287,,,,48.57309,9.26556,,46,,Bempflingen,Schwäbisch,131478
-47-Pielenhofen,,high1287,,,,49.07279,11.95648,,47,,Pielenhofen,Nordbairisch,71399
-48-Oberau,,high1287,,,,47.56027,11.13614,,48,,Oberau,Mittelbairisch,78677
-49-Benzingerode_Wernigerode,,high1287,,,,51.83833,10.79175,,49,,Benzingerode/Wernigerode,Ostfälisch,126340
-50-Jeetzel,,high1287,,,,52.95197,11.13524,,50,,Jeetzel,Brandenburgisch,111294
-51-Iggingen,,high1287,,,,48.83126,9.87851,,51,,Iggingen,Schwäbisch,133354
-52-Hermeskeil,,high1287,,,,49.65368,6.94817,,52,,Hermeskeil,Moselfränkisch,97056
-53-Rosswein,,high1287,,,,51.06476,13.18202,,53,,Rosswein,Obersächsisch,138212
-54-Osterhagen,,high1287,,,,51.5915,10.48229,,54,,Osterhagen,Ostfälisch,105687
-55-Hermannsreuth,,high1287,,,,49.83228,12.46995,,55,,Hermannsreuth,Nordbairisch,93399
-56-Allna,,high1287,,,,50.77126,8.67041,,56,,Allna,Zentralhessisch,99705
-57-GrossJamno_Forst,,high1287,,,,51.72402,14.57832,,57,,GroßJamno/Forst,Südmärkisch,125086
-58-NeuSchadow_Luebben,,high1287,,,,52.09045,13.92416,,58,,NeuSchadow/Lübben,Südmärkisch,121128
-59-Volkershausen,,high1287,,,,50.16458,10.30012,,59,,Volkershausen,Ostfränkisch,78096
-60-Freden,,high1287,,,,52.21207,8.32006,,60,,Freden,Ostfälisch,107178
-61-Schachach,,high1287,,,,48.46679,11.40528,,61,,Schachach,Mittelbairisch,71182
-62-Igling,,high1287,,,,48.07384,10.81434,,62,,Igling,Schwäbisch,87273
-63-Clausthal-Zellerfeld,,high1287,,,,51.8069,10.336,,63,,Clausthal-Zellerfeld,Obersächsisch,116270
-64-Zellingen,,high1287,,,,49.89864,9.81708,,64,,Zellingen,Ostfränkisch,87629
-65-Grienow,,high1287,,,,53.12362,14.07178,,65,,Grünow,Mittelpommersch,118882
-66-Burgrieden,,high1287,,,,48.23855,9.93333,,66,,Burgrieden,Schwäbisch,133243
-67-Atzendorf_Strassfurt,,high1287,,,,51.91989,11.59695,,67,,Atzendorf(Straßfurt),Ostfälisch,127102
-68-Wasbuettel,,high1287,,,,52.41361,10.59431,,68,,Wasbüttel,Ostfälisch,108461
-69-Eisenbach,,high1287,,,,50.33891,8.25781,,69,,Eisenbach,Zentralhessisch,100553
-70-Endenburg_Lehnacker,,high1287,,,,47.71161,7.73306,,70,,Endenburg/Lehnacker,Hochalemannisch,132787
-71-Niederschelden,,high1287,,,,50.84453,7.97003,,71,,Niederschelden,Moselfränkisch,103217
-72-Peterskirchen,,high1287,,,,48.09406,12.47554,,72,,Peterskirchen,Mittelbairisch,84354
-73-Ebertshausen,,high1287,,,,50.62814,10.57154,,73,,Ebertshausen,Ostfränkisch,137105
-74-Brockhausen,,high1287,,,,51.63018,8.12967,,74,,Brockhausen,Westfälisch,103582
-75-KirchKogel,,high1287,,,,53.65045,12.16037,,75,,KirchKogel,Mecklenburgisch-Vorpommersch,120233
-76-Obermaiselstein,,high1287,,,,47.44684,10.23982,,76,,Obermaiselstein,Mittelalemannisch,80157
-77-Ungstein,,high1287,,,,49.47631,8.18374,,77,,Ungstein,Rheinfränkisch,99867
-78-Jesteburg,,high1287,,,,53.30943,9.95808,,78,,Jesteburg,Nordniederdeutsch,107810
-79-Ahrbergen,,high1287,,,,52.22197,9.87635,,79,,Ahrbergen,Ostfälisch,115080
-80-Bruch,,high1287,,,,49.95674,6.78431,,80,,Bruch,Moselfränkisch,96991
-81-Linz,,high1287,,,,51.34256,13.73289,,81,,Linz,Obersächsisch,139652
-82-Astfeld,,high1287,,,,51.92967,10.36866,,82,,Astfeld,Ostfälisch,104872
-83-Lippramsdorf,,high1287,,,,51.713792352617,7.09639271799387,,83,,Lippramsdorf,Westfälisch,535541
-84-Brelingen,,high1287,,,,52.5546,9.68234,,84,,Brelingen,Ostfälisch,106912
-85-Ramsau,,high1287,,,,47.60782,12.89858,,85,,Ramsau,Mittelbairisch,80214
-86-Odenspiel,,high1287,,,,50.92872,7.71735,,86,,Odenspiel,Ripuarisch,134531
-87-Schwabstedt,,high1287,,,,54.3963,9.18593,,87,,Schwabstedt,Nordniederdeutsch,107244
-88-Schmannewitz,,high1287,,,,51.3965,12.98455,,88,,Schmannewitz,Obersächsisch,142407
-89-Koeln,,high1287,,,,50.94165,6.95506,,89,,Köln,Ripuarisch,136211
-90-Pretzsch_Wittenberg,,high1287,,,,51.7136,12.80601,,90,,Pretzsch/Wittenberg,Nordobersächsisch,122935
-91-Herbornseelbach,,high1287,,,,50.69923,8.34518,,91,,Herbornseelbach,Zentralhessisch,98052
-92-Moershausen,,high1287,,,,51.04322,9.44337,,92,,Mörshausen,Nordhessisch,97691
-93-Holmkjer,,high1287,,,,54.72756,9.88288,,93,,Holmkjer,Nordniederdeutsch,109126
-94-Maibrunn_Straubing,,high1287,,,,49.016,12.7814,,94,,Maibrunn/Straubing,Mittelbairisch,72112
-95-Hartenfels,,high1287,,,,50.57188,7.78567,,95,,Hartenfels,Moselfränkisch,99852
-96-Mockern_Altenburg,,high1287,,,,50.95277,12.43014,,96,,Mockern/Altenburg,Obersächsisch,141434
-97-Wieda,,high1287,,,,51.63299,10.58576,,97,,Wieda,Thüringisch,117389
-98-Ottowind,,high1287,,,,50.35401,10.88347,,98,,Ottowind,Ostfränkisch,81382
-99-Haddorf,,high1287,,,,52.25446,7.31817,,99,,Haddorf,Westfälisch,102505
-100-Kruft,,high1287,,,,50.383,7.33431,,100,,Kruft,Moselfränkisch,98885
-101-Poettmes,,high1287,,,,48.58242,11.09074,,101,,Pöttmes,Mittelbairisch,74385
-102-Lampertswalde,,high1287,,,,51.35966,13.08292,,102,,Lampertswalde,Obersächsisch,141827
-103-Frohnhausen_Battenberg,,high1287,,,,50.96621,8.62489,,103,,Frohnhausen/Battenberg,Nordhessisch,101005
-104-Juergenshagen,,high1287,,,,53.9533,11.89471,,104,,Jürgenshagen,Mecklenburgisch-Vorpommersch,124917
-105-Altenberg_Erzg,,high1287,,,,50.76363,13.76015,,105,,Altenberg/Erzg,Obersächsisch,137182
-106-Mirow,,high1287,,,,53.27493,12.81399,,106,,Mirow,Mecklenburgisch-Vorpommersch,118146
-107-Vietmannsdorf,,high1287,,,,53.05063,13.53068,,107,,Vietmannsdorf,Brandenburgisch,124194
-108-Schraden,,high1287,,,,51.42369,13.6915,,108,,Schraden,Nordobersächsisch,126543
-109-Rammenau,,high1287,,,,51.15263,14.13335,,109,,Rammenau,Südmärkisch,137478
-110-Siebenbach,,high1287,,,,50.3804,7.03643,,110,,Siebenbach,Moselfränkisch,96433
-111-Schellroda,,high1287,,,,50.91724,11.11512,,111,,Schellroda,Thüringisch,139458
-112-Osterbruch,,high1287,,,,53.77773,8.94231,,112,,Osterbruch,Nordniederdeutsch,114116
-113-Niederasphe,,high1287,,,,50.94115,8.66476,,113,,Niederasphe,Zentralhessisch,98830
-114-Oiste,,high1287,,,,52.91245,9.15723,,114,,Oiste,Nordniederdeutsch,112823
-115-Valdorf,,high1287,,,,52.141194842,8.8563326817,,115,,Valdorf,Westfälisch,522626
-116-Bockelwitz,,high1287,,,,51.19788,12.95481,,116,,Bockelwitz,Obersächsisch,142179
-117-Niederauerbach,,high1287,,,,49.2574647664277,7.39866520384403,,117,,Niederauerbach,Rheinfränkisch,534317
-118-Verchen,,high1287,,,,53.85051,12.90967,,118,,Verchen,Mecklenburgisch-Vorpommersch,122070
-119-Reetz_Belzig,,high1287,,,,52.1102,12.37133,,119,,Reetz/Belzig,Brandenburgisch,124734
-120-Kemmern,,high1287,,,,49.95301,10.87399,,120,,Kemmern,Ostfränkisch,92088
-121-Hundisburg,,high1287,,,,52.24731,11.39951,,121,,Hundisburg,Ostfälisch,122830
-122-Nuernberg,,high1287,,,,49.45431,11.07393,,122,,Nürnberg,Ostfränkisch,77404
-123-Gerbstedt,,high1287,,,,51.63156,11.62803,,123,,Gerbstedt,Thüringisch,117816
-124-Schauenstein,,high1287,,,,50.27822,11.74264,,124,,Schauenstein,Ostfränkisch,76974
-125-Jonsdorf,,high1287,,,,50.85343,14.69458,,125,,Jonsdorf,Schlesisch,138617
-126-Wasbek,,high1287,,,,54.07009,9.89498,,126,,Wasbek,Nordniederdeutsch,106665
-127-Lohra,,high1287,,,,50.73594,8.6312,,127,,Lohra,Zentralhessisch,94235
-128-Grossenwiehe,,high1287,,,,54.71004,9.25023,,128,,Grossenwiehe,Nordniederdeutsch,116692
-129-Ruhlsdorf_Luckenwalde,,high1287,,,,52.12856,13.16846,,129,,Ruhlsdorf/Luckenwalde,Brandenburgisch,121678
-130-Maxweiler_Uebergangsgebiet,,high1287,,,,48.72127,11.28617,,130,,Maxweiler(Übergangsgebiet),Mittelbairisch,89144
-131-Lohrhaupten,,high1287,,,,50.12751,9.47928,,131,,Lohrhaupten,Rheinfränkisch,96254
-132-Wehrsdorf,,high1287,,,,51.05396,14.3817,,132,,Wehrsdorf,Südmärkisch,141322
-133-Wildpoldsried,,high1287,,,,47.76812,10.40268,,133,,Wildpoldsried,Schwäbisch,77989
-134-Herssum,,high1287,,,,52.75389,7.64522,,134,,Herssum,Nordniederdeutsch,105310
-135-Seelbach,,high1287,,,,48.30987,7.94104,,135,,Seelbach,Niederalemannisch,132113
-136-Langenbruck,,high1287,,,,48.6382,11.51153,,136,,Langenbruck,Mittelbairisch,73053
-137-Billingsbach,,high1287,,,,49.30381,9.89691,,137,,Billingsbach,Ostfränkisch,131639
-138-Borstendorf_Erzg,,high1287,,,,50.77079,13.18209,,138,,Borstendorf/Erzg,Obersächsisch,142544
-139-Niedernhausen,,high1287,,,,50.16055,8.31848,,139,,Niedernhausen,Zentralhessisch,98815
-140-Herzfeld,,high1287,,,,53.3249,11.76421,,140,,Herzfeld,Mecklenburgisch-Vorpommersch,119269
-141-Falkenthal,,high1287,,,,52.90459,13.30394,,141,,Falkenthal,Brandenburgisch,118165
-142-Grosswechsungen_Nordhausen,,high1287,,,,51.49484,10.69225,,142,,Großwechsungen/Nordhausen,Thüringisch,142132
-143-Gelting,,high1287,,,,48.19687,11.81097,,143,,Gelting,Mittelbairisch,73067
-144-Rosenthal,,high1287,,,,50.974,8.86801,,144,,Rosenthal,Nordhessisch,94091
-145-WentorfAS,,high1287,,,,53.67865,10.4776,,145,,WentorfAS,Nordniederdeutsch,108547
-146-Helmers,,high1287,,,,50.72446,10.29392,,146,,Helmers,Ostfränkisch,136865
-148-Wangerooge,,high1287,,,,53.79103,7.89936,,148,,Wangerooge,Nordniederdeutsch,105112
-149-Orferode,,high1287,,,,51.25775,9.93846,,149,,Orferode,Nordhessisch,100120
-150-Wemb,,high1287,,,,51.58482,6.17695,,150,,Wemb,Niederfränkisch,103353
-151-Pfaffenrot,,high1287,,,,48.86075,8.45861,,151,,Pfaffenrot,Schwäbisch,132665
-152-Tann,,high1287,,,,50.64151,10.02256,,152,,Tann,Osthessisch,100345
-153-Herrentrup,,high1287,,,,51.91995,9.03804,,153,,Herrentrup,Westfälisch,103623
-154-Diekhusen-Fahrstedt,,high1287,,,,53.93712,9.02855,,154,,Diekhusen-Fahrstedt,Nordniederdeutsch,109582
-155-Oberwuerzbach,,high1287,,,,49.24246,7.14491,,155,,Oberwürzbach,Rheinfränkisch,94066
-156-KleinRossau,,high1287,,,,52.78919,11.63871,,156,,KleinRossau,Brandenburgisch,120286
-157-Osterfeld,,high1287,,,,51.08099,11.92963,,157,,Osterfeld,Obersächsisch,125647
-158-Hohenkoerben,,high1287,,,,52.5164896720584,7.09344065618214,,158,,Hohenkörben,Westfälisch,534207
-159-Jever,,high1287,,,,53.574,7.90327,,159,,Jever,Nordniederdeutsch,114794
-160-Landgrafroda_Querfurt,,high1287,,,,51.34975,11.43146,,160,,Landgrafroda/Querfurt,Thüringisch,123486
-161-Ebstorf,,high1287,,,,53.02872,10.4165,,161,,Ebstorf,Nordniederdeutsch,112022
-162-Bremscheid,,high1287,,,,50.55264,7.38355,,162,,Bremscheid,Moselfränkisch,97496
-163-Oberviehbach,,high1287,,,,48.58109,12.37579,,163,,Oberviehbach,Mittelbairisch,71626
-164-Einoellen,,high1287,,,,49.60773,7.63783,,164,,Einöllen,Rheinfränkisch,96934
-165-Weidenbach,,high1287,,,,49.19811,10.64359,,165,,Weidenbach,Ostfränkisch,81534
-166-Hesselteich,,high1287,,,,52.0266,8.23615,,166,,Hesselteich,Westfälisch,101858
-167-Hohwacht,,high1287,,,,54.31969,10.67269,,167,,Hohwacht,Nordniederdeutsch,110821
-168-Herdecke,,high1287,,,,51.40055,7.43174,,168,,Herdecke,Westfälisch,102156
-169-GrossMohrdorf,,high1287,,,,54.38842,12.94792,,169,,GroßMohrdorf,Mecklenburgisch-Vorpommersch,121905
-170-Iversheim,,high1287,,,,50.58589,6.7722,,170,,Iversheim,Ripuarisch,136417
-171-Breddin,,high1287,,,,52.88514,12.22293,,171,,Breddin,Brandenburgisch,120820
-172-Huddestorf,,high1287,,,,52.47656,8.96733,,172,,Huddestorf,Nordniederdeutsch,116468
-173-Kuhstedt,,high1287,,,,53.38118,8.96325,,173,,Kuhstedt,Nordniederdeutsch,115354
-174-Dreeke,,high1287,,,,52.67496,8.48841,,174,,Dreeke,Nordniederdeutsch,114506
-175-Bennin,,high1287,,,,53.44636,10.88412,,175,,Bennin,Mecklenburgisch-Vorpommersch,118512
-176-Exdorf,,high1287,,,,50.45702,10.54374,,176,,Exdorf,Ostfränkisch,139171
-177-Hammah,,high1287,,,,53.62058,9.36457,,177,,Hammah,Nordniederdeutsch,117629
-178-Standard,,stan1295,,,,,,,178,,Standard,Standard,999
+1-Altentruedingen,,high1287,West Middle German,,,49.06389,10.61456,Indo-European,1,,Altentrüdingen,Ostfränkisch,88232
+2-Gottsbueren_Hofgeismar,,high1287,West Middle German,,,51.57855,9.50046,Indo-European,2,,Gottsbüren/Hofgeismar,Ostfälisch,98572
+3-Hoenebach,,high1287,West Middle German,,,50.9339,9.94198,Indo-European,3,,Hönebach,Nordhessisch,97293
+4-Gornsdorf,,high1287,West Middle German,,,50.69943,12.88345,Indo-European,4,,Gornsdorf,Obersächsisch,140999
+5-Hagen,,high1287,West Middle German,,,54.56434,13.61768,Indo-European,5,,Hagen,Mecklenburgisch-Vorpommersch,124534
+6-Wolgast,,high1287,West Middle German,,,54.05062,13.76549,Indo-European,6,,Wolgast,Mecklenburgisch-Vorpommersch,119195
+7-Theuma,,high1287,West Middle German,,,52.76422,9.355,Indo-European,7,,Theuma,Nordniederdeutsch,110034
+8-Aachen,,high1287,West Middle German,,,50.77804,6.08842,Indo-European,8,,Aachen,Ripuarisch,135360
+9-Buedesheim,,high1287,West Middle German,,,50.21787,8.83433,Indo-European,9,,Büdesheim,Zentralhessisch,95188
+10-Engelsbach,,high1287,West Middle German,,,50.85131,10.60358,Indo-European,10,,Engelsbach,Thüringisch,142692
+11-Schoemberg,,high1287,West Middle German,,,48.21131,8.75991,Indo-European,11,,Schömberg,Schwäbisch,129216
+12-Horheim,,high1287,West Middle German,,,47.64854,8.34737,Indo-European,12,,Horheim,Hochalemannisch,131034
+13-Reelkirchen,,high1287,West Middle German,,,51.9127405779053,9.03518281681611,Indo-European,13,,Reelkirchen,Westfälisch,534378
+14-Treffelstein,,high1287,West Middle German,,,49.42291,12.61578,Indo-European,14,,Treffelstein,Nordbairisch,90559
+15-Eschelbronn,,high1287,West Middle German,,,49.3202,8.86825,Indo-European,15,,Eschelbronn,Rheinfränkisch,130378
+16-Oberhomberg,,high1287,West Middle German,,,47.81259,9.41656,Indo-European,16,,Oberhomberg,Mittelalemannisch,131625
+17-Warpe,,high1287,West Middle German,,,52.74531,9.10759,Indo-European,17,,Warpe,Nordniederdeutsch,115632
+18-Bardenfleth,,high1287,West Middle German,,,53.23143,8.37107,Indo-European,18,,Bardenfleth,Nordniederdeutsch,107979
+19-Eichenhofen,,high1287,West Middle German,,,49.18626,11.64591,Indo-European,19,,Eichenhofen,Nordbairisch,80028
+20-Schoenbeck,,high1287,West Middle German,,,53.5793,13.57191,Indo-European,20,,Schönbeck,Mittelpommersch,126983
+21-Eversen,,high1287,West Middle German,,,52.75291,10.05358,Indo-European,21,,Eversen,Nordniederdeutsch,112685
+22-Leuth,,high1287,West Middle German,,,51.33748,6.22534,Indo-European,22,,Leuth,Niederfränkisch,134449
+23-Altwarp,,high1287,West Middle German,,,53.74399,14.26249,Indo-European,23,,Altwarp,Mittelpommersch,119655
+24-Kleinbottwar,,high1287,West Middle German,,,48.98044,9.28698,Indo-European,24,,Kleinbottwar,Schwäbisch,127805
+25-EngterHuxelort,,high1287,West Middle German,,,52.3898,8.0617,Indo-European,25,,EngterHuxelort,Westfälisch,104396
+26-Wuellen,,high1287,West Middle German,,,52.06571,6.97187,Indo-European,26,,Wüllen,Westfälisch,102355
+27-Albersloh,,high1287,West Middle German,,,51.86704,7.73278,Indo-European,27,,Albersloh,Westfälisch,102330
+28-Offdilln,,high1287,West Middle German,,,50.82533,8.22926,Indo-European,28,,Offdilln,Zentralhessisch,98155
+29-Hartenstein,,high1287,West Middle German,,,49.59651,11.52376,Indo-European,29,,Hartenstein,Nordbairisch,72938
+30-Grossballhausen,,high1287,West Middle German,,,51.15579,10.89288,Indo-European,30,,Großballhausen,Thüringisch,142682
+31-Klafferstrass,,high1287,West Middle German,,,48.72849,13.79591,Indo-European,31,,Klafferstraß,Mittelbairisch,93455
+32-Barssel,,high1287,West Middle German,,,53.16896,7.7445,Indo-European,32,,Barßel,Nordniederdeutsch,110375
+33-Cursdorf,,high1287,West Middle German,,,50.57015,11.13046,Indo-European,33,,Cursdorf,Ostfränkisch,142982
+34-Vielbrunn,,high1287,West Middle German,,,49.71315,9.09816,Indo-European,34,,Vielbrunn,Rheinfränkisch,101114
+35-Dexbach,,high1287,West Middle German,,,50.93639,8.58935,Indo-European,35,,Dexbach,Zentralhessisch,94232
+36-Ohrdorf,,high1287,West Middle German,,,52.69796,10.80829,Indo-European,36,,Ohrdorf,Ostfälisch,112854
+38-Theuma,,high1287,West Middle German,,,50.46821,12.22288,Indo-European,38,,Theuma,Ostfränkisch,136673
+39-Goetz_Brandenburg,,high1287,West Middle German,,,52.41975,12.71743,Indo-European,39,,Götz/Brandenburg,Brandenburgisch,126108
+40-Schnepfenbach,,high1287,West Middle German,,,49.83033,10.1485,Indo-European,40,,Schnepfenbach,Ostfränkisch,89340
+41-Adorf,,high1287,West Middle German,,,51.36049,8.80445,Indo-European,41,,Adorf,Westfälisch,101119
+42-Ensheim,,high1287,West Middle German,,,49.80601,8.11735,Indo-European,42,,Ensheim,Rheinfränkisch,97362
+43-Ulbering,,high1287,West Middle German,,,48.35408,13.01466,Indo-European,43,,Ulbering,Mittelbairisch,79153
+44-Binswangen,,high1287,West Middle German,,,48.55704,10.63907,Indo-European,44,,Binswangen,Schwäbisch,93295
+45-Roehrda,,high1287,West Middle German,,,51.10205,10.0587,Indo-European,45,,Röhrda,Nordhessisch,98997
+46-Bempflingen,,high1287,West Middle German,,,48.57309,9.26556,Indo-European,46,,Bempflingen,Schwäbisch,131478
+47-Pielenhofen,,high1287,West Middle German,,,49.07279,11.95648,Indo-European,47,,Pielenhofen,Nordbairisch,71399
+48-Oberau,,high1287,West Middle German,,,47.56027,11.13614,Indo-European,48,,Oberau,Mittelbairisch,78677
+49-Benzingerode_Wernigerode,,high1287,West Middle German,,,51.83833,10.79175,Indo-European,49,,Benzingerode/Wernigerode,Ostfälisch,126340
+50-Jeetzel,,high1287,West Middle German,,,52.95197,11.13524,Indo-European,50,,Jeetzel,Brandenburgisch,111294
+51-Iggingen,,high1287,West Middle German,,,48.83126,9.87851,Indo-European,51,,Iggingen,Schwäbisch,133354
+52-Hermeskeil,,high1287,West Middle German,,,49.65368,6.94817,Indo-European,52,,Hermeskeil,Moselfränkisch,97056
+53-Rosswein,,high1287,West Middle German,,,51.06476,13.18202,Indo-European,53,,Rosswein,Obersächsisch,138212
+54-Osterhagen,,high1287,West Middle German,,,51.5915,10.48229,Indo-European,54,,Osterhagen,Ostfälisch,105687
+55-Hermannsreuth,,high1287,West Middle German,,,49.83228,12.46995,Indo-European,55,,Hermannsreuth,Nordbairisch,93399
+56-Allna,,high1287,West Middle German,,,50.77126,8.67041,Indo-European,56,,Allna,Zentralhessisch,99705
+57-GrossJamno_Forst,,high1287,West Middle German,,,51.72402,14.57832,Indo-European,57,,GroßJamno/Forst,Südmärkisch,125086
+58-NeuSchadow_Luebben,,high1287,West Middle German,,,52.09045,13.92416,Indo-European,58,,NeuSchadow/Lübben,Südmärkisch,121128
+59-Volkershausen,,high1287,West Middle German,,,50.16458,10.30012,Indo-European,59,,Volkershausen,Ostfränkisch,78096
+60-Freden,,high1287,West Middle German,,,52.21207,8.32006,Indo-European,60,,Freden,Ostfälisch,107178
+61-Schachach,,high1287,West Middle German,,,48.46679,11.40528,Indo-European,61,,Schachach,Mittelbairisch,71182
+62-Igling,,high1287,West Middle German,,,48.07384,10.81434,Indo-European,62,,Igling,Schwäbisch,87273
+63-Clausthal-Zellerfeld,,high1287,West Middle German,,,51.8069,10.336,Indo-European,63,,Clausthal-Zellerfeld,Obersächsisch,116270
+64-Zellingen,,high1287,West Middle German,,,49.89864,9.81708,Indo-European,64,,Zellingen,Ostfränkisch,87629
+65-Grienow,,high1287,West Middle German,,,53.12362,14.07178,Indo-European,65,,Grünow,Mittelpommersch,118882
+66-Burgrieden,,high1287,West Middle German,,,48.23855,9.93333,Indo-European,66,,Burgrieden,Schwäbisch,133243
+67-Atzendorf_Strassfurt,,high1287,West Middle German,,,51.91989,11.59695,Indo-European,67,,Atzendorf(Straßfurt),Ostfälisch,127102
+68-Wasbuettel,,high1287,West Middle German,,,52.41361,10.59431,Indo-European,68,,Wasbüttel,Ostfälisch,108461
+69-Eisenbach,,high1287,West Middle German,,,50.33891,8.25781,Indo-European,69,,Eisenbach,Zentralhessisch,100553
+70-Endenburg_Lehnacker,,high1287,West Middle German,,,47.71161,7.73306,Indo-European,70,,Endenburg/Lehnacker,Hochalemannisch,132787
+71-Niederschelden,,high1287,West Middle German,,,50.84453,7.97003,Indo-European,71,,Niederschelden,Moselfränkisch,103217
+72-Peterskirchen,,high1287,West Middle German,,,48.09406,12.47554,Indo-European,72,,Peterskirchen,Mittelbairisch,84354
+73-Ebertshausen,,high1287,West Middle German,,,50.62814,10.57154,Indo-European,73,,Ebertshausen,Ostfränkisch,137105
+74-Brockhausen,,high1287,West Middle German,,,51.63018,8.12967,Indo-European,74,,Brockhausen,Westfälisch,103582
+75-KirchKogel,,high1287,West Middle German,,,53.65045,12.16037,Indo-European,75,,KirchKogel,Mecklenburgisch-Vorpommersch,120233
+76-Obermaiselstein,,high1287,West Middle German,,,47.44684,10.23982,Indo-European,76,,Obermaiselstein,Mittelalemannisch,80157
+77-Ungstein,,high1287,West Middle German,,,49.47631,8.18374,Indo-European,77,,Ungstein,Rheinfränkisch,99867
+78-Jesteburg,,high1287,West Middle German,,,53.30943,9.95808,Indo-European,78,,Jesteburg,Nordniederdeutsch,107810
+79-Ahrbergen,,high1287,West Middle German,,,52.22197,9.87635,Indo-European,79,,Ahrbergen,Ostfälisch,115080
+80-Bruch,,high1287,West Middle German,,,49.95674,6.78431,Indo-European,80,,Bruch,Moselfränkisch,96991
+81-Linz,,high1287,West Middle German,,,51.34256,13.73289,Indo-European,81,,Linz,Obersächsisch,139652
+82-Astfeld,,high1287,West Middle German,,,51.92967,10.36866,Indo-European,82,,Astfeld,Ostfälisch,104872
+83-Lippramsdorf,,high1287,West Middle German,,,51.713792352617,7.09639271799387,Indo-European,83,,Lippramsdorf,Westfälisch,535541
+84-Brelingen,,high1287,West Middle German,,,52.5546,9.68234,Indo-European,84,,Brelingen,Ostfälisch,106912
+85-Ramsau,,high1287,West Middle German,,,47.60782,12.89858,Indo-European,85,,Ramsau,Mittelbairisch,80214
+86-Odenspiel,,high1287,West Middle German,,,50.92872,7.71735,Indo-European,86,,Odenspiel,Ripuarisch,134531
+87-Schwabstedt,,high1287,West Middle German,,,54.3963,9.18593,Indo-European,87,,Schwabstedt,Nordniederdeutsch,107244
+88-Schmannewitz,,high1287,West Middle German,,,51.3965,12.98455,Indo-European,88,,Schmannewitz,Obersächsisch,142407
+89-Koeln,,high1287,West Middle German,,,50.94165,6.95506,Indo-European,89,,Köln,Ripuarisch,136211
+90-Pretzsch_Wittenberg,,high1287,West Middle German,,,51.7136,12.80601,Indo-European,90,,Pretzsch/Wittenberg,Nordobersächsisch,122935
+91-Herbornseelbach,,high1287,West Middle German,,,50.69923,8.34518,Indo-European,91,,Herbornseelbach,Zentralhessisch,98052
+92-Moershausen,,high1287,West Middle German,,,51.04322,9.44337,Indo-European,92,,Mörshausen,Nordhessisch,97691
+93-Holmkjer,,high1287,West Middle German,,,54.72756,9.88288,Indo-European,93,,Holmkjer,Nordniederdeutsch,109126
+94-Maibrunn_Straubing,,high1287,West Middle German,,,49.016,12.7814,Indo-European,94,,Maibrunn/Straubing,Mittelbairisch,72112
+95-Hartenfels,,high1287,West Middle German,,,50.57188,7.78567,Indo-European,95,,Hartenfels,Moselfränkisch,99852
+96-Mockern_Altenburg,,high1287,West Middle German,,,50.95277,12.43014,Indo-European,96,,Mockern/Altenburg,Obersächsisch,141434
+97-Wieda,,high1287,West Middle German,,,51.63299,10.58576,Indo-European,97,,Wieda,Thüringisch,117389
+98-Ottowind,,high1287,West Middle German,,,50.35401,10.88347,Indo-European,98,,Ottowind,Ostfränkisch,81382
+99-Haddorf,,high1287,West Middle German,,,52.25446,7.31817,Indo-European,99,,Haddorf,Westfälisch,102505
+100-Kruft,,high1287,West Middle German,,,50.383,7.33431,Indo-European,100,,Kruft,Moselfränkisch,98885
+101-Poettmes,,high1287,West Middle German,,,48.58242,11.09074,Indo-European,101,,Pöttmes,Mittelbairisch,74385
+102-Lampertswalde,,high1287,West Middle German,,,51.35966,13.08292,Indo-European,102,,Lampertswalde,Obersächsisch,141827
+103-Frohnhausen_Battenberg,,high1287,West Middle German,,,50.96621,8.62489,Indo-European,103,,Frohnhausen/Battenberg,Nordhessisch,101005
+104-Juergenshagen,,high1287,West Middle German,,,53.9533,11.89471,Indo-European,104,,Jürgenshagen,Mecklenburgisch-Vorpommersch,124917
+105-Altenberg_Erzg,,high1287,West Middle German,,,50.76363,13.76015,Indo-European,105,,Altenberg/Erzg,Obersächsisch,137182
+106-Mirow,,high1287,West Middle German,,,53.27493,12.81399,Indo-European,106,,Mirow,Mecklenburgisch-Vorpommersch,118146
+107-Vietmannsdorf,,high1287,West Middle German,,,53.05063,13.53068,Indo-European,107,,Vietmannsdorf,Brandenburgisch,124194
+108-Schraden,,high1287,West Middle German,,,51.42369,13.6915,Indo-European,108,,Schraden,Nordobersächsisch,126543
+109-Rammenau,,high1287,West Middle German,,,51.15263,14.13335,Indo-European,109,,Rammenau,Südmärkisch,137478
+110-Siebenbach,,high1287,West Middle German,,,50.3804,7.03643,Indo-European,110,,Siebenbach,Moselfränkisch,96433
+111-Schellroda,,high1287,West Middle German,,,50.91724,11.11512,Indo-European,111,,Schellroda,Thüringisch,139458
+112-Osterbruch,,high1287,West Middle German,,,53.77773,8.94231,Indo-European,112,,Osterbruch,Nordniederdeutsch,114116
+113-Niederasphe,,high1287,West Middle German,,,50.94115,8.66476,Indo-European,113,,Niederasphe,Zentralhessisch,98830
+114-Oiste,,high1287,West Middle German,,,52.91245,9.15723,Indo-European,114,,Oiste,Nordniederdeutsch,112823
+115-Valdorf,,high1287,West Middle German,,,52.141194842,8.8563326817,Indo-European,115,,Valdorf,Westfälisch,522626
+116-Bockelwitz,,high1287,West Middle German,,,51.19788,12.95481,Indo-European,116,,Bockelwitz,Obersächsisch,142179
+117-Niederauerbach,,high1287,West Middle German,,,49.2574647664277,7.39866520384403,Indo-European,117,,Niederauerbach,Rheinfränkisch,534317
+118-Verchen,,high1287,West Middle German,,,53.85051,12.90967,Indo-European,118,,Verchen,Mecklenburgisch-Vorpommersch,122070
+119-Reetz_Belzig,,high1287,West Middle German,,,52.1102,12.37133,Indo-European,119,,Reetz/Belzig,Brandenburgisch,124734
+120-Kemmern,,high1287,West Middle German,,,49.95301,10.87399,Indo-European,120,,Kemmern,Ostfränkisch,92088
+121-Hundisburg,,high1287,West Middle German,,,52.24731,11.39951,Indo-European,121,,Hundisburg,Ostfälisch,122830
+122-Nuernberg,,high1287,West Middle German,,,49.45431,11.07393,Indo-European,122,,Nürnberg,Ostfränkisch,77404
+123-Gerbstedt,,high1287,West Middle German,,,51.63156,11.62803,Indo-European,123,,Gerbstedt,Thüringisch,117816
+124-Schauenstein,,high1287,West Middle German,,,50.27822,11.74264,Indo-European,124,,Schauenstein,Ostfränkisch,76974
+125-Jonsdorf,,high1287,West Middle German,,,50.85343,14.69458,Indo-European,125,,Jonsdorf,Schlesisch,138617
+126-Wasbek,,high1287,West Middle German,,,54.07009,9.89498,Indo-European,126,,Wasbek,Nordniederdeutsch,106665
+127-Lohra,,high1287,West Middle German,,,50.73594,8.6312,Indo-European,127,,Lohra,Zentralhessisch,94235
+128-Grossenwiehe,,high1287,West Middle German,,,54.71004,9.25023,Indo-European,128,,Grossenwiehe,Nordniederdeutsch,116692
+129-Ruhlsdorf_Luckenwalde,,high1287,West Middle German,,,52.12856,13.16846,Indo-European,129,,Ruhlsdorf/Luckenwalde,Brandenburgisch,121678
+130-Maxweiler_Uebergangsgebiet,,high1287,West Middle German,,,48.72127,11.28617,Indo-European,130,,Maxweiler(Übergangsgebiet),Mittelbairisch,89144
+131-Lohrhaupten,,high1287,West Middle German,,,50.12751,9.47928,Indo-European,131,,Lohrhaupten,Rheinfränkisch,96254
+132-Wehrsdorf,,high1287,West Middle German,,,51.05396,14.3817,Indo-European,132,,Wehrsdorf,Südmärkisch,141322
+133-Wildpoldsried,,high1287,West Middle German,,,47.76812,10.40268,Indo-European,133,,Wildpoldsried,Schwäbisch,77989
+134-Herssum,,high1287,West Middle German,,,52.75389,7.64522,Indo-European,134,,Herssum,Nordniederdeutsch,105310
+135-Seelbach,,high1287,West Middle German,,,48.30987,7.94104,Indo-European,135,,Seelbach,Niederalemannisch,132113
+136-Langenbruck,,high1287,West Middle German,,,48.6382,11.51153,Indo-European,136,,Langenbruck,Mittelbairisch,73053
+137-Billingsbach,,high1287,West Middle German,,,49.30381,9.89691,Indo-European,137,,Billingsbach,Ostfränkisch,131639
+138-Borstendorf_Erzg,,high1287,West Middle German,,,50.77079,13.18209,Indo-European,138,,Borstendorf/Erzg,Obersächsisch,142544
+139-Niedernhausen,,high1287,West Middle German,,,50.16055,8.31848,Indo-European,139,,Niedernhausen,Zentralhessisch,98815
+140-Herzfeld,,high1287,West Middle German,,,53.3249,11.76421,Indo-European,140,,Herzfeld,Mecklenburgisch-Vorpommersch,119269
+141-Falkenthal,,high1287,West Middle German,,,52.90459,13.30394,Indo-European,141,,Falkenthal,Brandenburgisch,118165
+142-Grosswechsungen_Nordhausen,,high1287,West Middle German,,,51.49484,10.69225,Indo-European,142,,Großwechsungen/Nordhausen,Thüringisch,142132
+143-Gelting,,high1287,West Middle German,,,48.19687,11.81097,Indo-European,143,,Gelting,Mittelbairisch,73067
+144-Rosenthal,,high1287,West Middle German,,,50.974,8.86801,Indo-European,144,,Rosenthal,Nordhessisch,94091
+145-WentorfAS,,high1287,West Middle German,,,53.67865,10.4776,Indo-European,145,,WentorfAS,Nordniederdeutsch,108547
+146-Helmers,,high1287,West Middle German,,,50.72446,10.29392,Indo-European,146,,Helmers,Ostfränkisch,136865
+148-Wangerooge,,high1287,West Middle German,,,53.79103,7.89936,Indo-European,148,,Wangerooge,Nordniederdeutsch,105112
+149-Orferode,,high1287,West Middle German,,,51.25775,9.93846,Indo-European,149,,Orferode,Nordhessisch,100120
+150-Wemb,,high1287,West Middle German,,,51.58482,6.17695,Indo-European,150,,Wemb,Niederfränkisch,103353
+151-Pfaffenrot,,high1287,West Middle German,,,48.86075,8.45861,Indo-European,151,,Pfaffenrot,Schwäbisch,132665
+152-Tann,,high1287,West Middle German,,,50.64151,10.02256,Indo-European,152,,Tann,Osthessisch,100345
+153-Herrentrup,,high1287,West Middle German,,,51.91995,9.03804,Indo-European,153,,Herrentrup,Westfälisch,103623
+154-Diekhusen-Fahrstedt,,high1287,West Middle German,,,53.93712,9.02855,Indo-European,154,,Diekhusen-Fahrstedt,Nordniederdeutsch,109582
+155-Oberwuerzbach,,high1287,West Middle German,,,49.24246,7.14491,Indo-European,155,,Oberwürzbach,Rheinfränkisch,94066
+156-KleinRossau,,high1287,West Middle German,,,52.78919,11.63871,Indo-European,156,,KleinRossau,Brandenburgisch,120286
+157-Osterfeld,,high1287,West Middle German,,,51.08099,11.92963,Indo-European,157,,Osterfeld,Obersächsisch,125647
+158-Hohenkoerben,,high1287,West Middle German,,,52.5164896720584,7.09344065618214,Indo-European,158,,Hohenkörben,Westfälisch,534207
+159-Jever,,high1287,West Middle German,,,53.574,7.90327,Indo-European,159,,Jever,Nordniederdeutsch,114794
+160-Landgrafroda_Querfurt,,high1287,West Middle German,,,51.34975,11.43146,Indo-European,160,,Landgrafroda/Querfurt,Thüringisch,123486
+161-Ebstorf,,high1287,West Middle German,,,53.02872,10.4165,Indo-European,161,,Ebstorf,Nordniederdeutsch,112022
+162-Bremscheid,,high1287,West Middle German,,,50.55264,7.38355,Indo-European,162,,Bremscheid,Moselfränkisch,97496
+163-Oberviehbach,,high1287,West Middle German,,,48.58109,12.37579,Indo-European,163,,Oberviehbach,Mittelbairisch,71626
+164-Einoellen,,high1287,West Middle German,,,49.60773,7.63783,Indo-European,164,,Einöllen,Rheinfränkisch,96934
+165-Weidenbach,,high1287,West Middle German,,,49.19811,10.64359,Indo-European,165,,Weidenbach,Ostfränkisch,81534
+166-Hesselteich,,high1287,West Middle German,,,52.0266,8.23615,Indo-European,166,,Hesselteich,Westfälisch,101858
+167-Hohwacht,,high1287,West Middle German,,,54.31969,10.67269,Indo-European,167,,Hohwacht,Nordniederdeutsch,110821
+168-Herdecke,,high1287,West Middle German,,,51.40055,7.43174,Indo-European,168,,Herdecke,Westfälisch,102156
+169-GrossMohrdorf,,high1287,West Middle German,,,54.38842,12.94792,Indo-European,169,,GroßMohrdorf,Mecklenburgisch-Vorpommersch,121905
+170-Iversheim,,high1287,West Middle German,,,50.58589,6.7722,Indo-European,170,,Iversheim,Ripuarisch,136417
+171-Breddin,,high1287,West Middle German,,,52.88514,12.22293,Indo-European,171,,Breddin,Brandenburgisch,120820
+172-Huddestorf,,high1287,West Middle German,,,52.47656,8.96733,Indo-European,172,,Huddestorf,Nordniederdeutsch,116468
+173-Kuhstedt,,high1287,West Middle German,,,53.38118,8.96325,Indo-European,173,,Kuhstedt,Nordniederdeutsch,115354
+174-Dreeke,,high1287,West Middle German,,,52.67496,8.48841,Indo-European,174,,Dreeke,Nordniederdeutsch,114506
+175-Bennin,,high1287,West Middle German,,,53.44636,10.88412,Indo-European,175,,Bennin,Mecklenburgisch-Vorpommersch,118512
+176-Exdorf,,high1287,West Middle German,,,50.45702,10.54374,Indo-European,176,,Exdorf,Ostfränkisch,139171
+177-Hammah,,high1287,West Middle German,,,53.62058,9.36457,Indo-European,177,,Hammah,Nordniederdeutsch,117629
+178-Standard,,stan1295,German,deu,Eurasia,,,Indo-European,178,,Standard,Standard,999
